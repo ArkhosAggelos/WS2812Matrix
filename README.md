@@ -221,4 +221,4 @@ Esta biblioteca está licenciada sob a licença MIT.
 
 ## Autor
 
-Prof. Claudio Roberto da Silva
+&copy;2025 Claudio Roberto da Silva
