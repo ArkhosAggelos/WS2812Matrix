@@ -108,7 +108,7 @@ This library is licensed under the MIT License.
 
 ## Author
 
-Prof. Claudio Roberto da Silva
+&copy;2025 Claudio Roberto da Silva
 
 ---
 
